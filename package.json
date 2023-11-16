@@ -1,0 +1,19 @@
+{
+    "name": "ww-expand",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/weweb-assets/ww-expand"
+    },
+    "version": "3.1.0",
+    "license": "MIT",
+    "scripts": {
+        "build": "weweb build",
+        "serve": "weweb serve"
+    },
+    "dependencies": {
+        "babel-loader": "^9.1.3"
+    },
+    "devDependencies": {
+        "@weweb/cli": "latest"
+    }
+}
