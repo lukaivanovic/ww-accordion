@@ -33,7 +33,7 @@ export default {
     },
     data() {
         return {
-            isVisible: false,
+            isVisible: content.opened,
             editLayout: false,
         };
     },
